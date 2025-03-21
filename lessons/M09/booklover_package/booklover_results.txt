@@ -1,0 +1,15 @@
+test_add_book (__main__.BookLoverTestSuite.test_add_book)
+Test adding a book and checking if it exists. ... ok
+test_fav_books (__main__.BookLoverTestSuite.test_fav_books)
+Test getting favorite books with a rating of 4 or higher. ... ok
+test_has_read (__main__.BookLoverTestSuite.test_has_read)
+Test checking if a book has been read. ... ok
+test_no_duplicate_books (__main__.BookLoverTestSuite.test_no_duplicate_books)
+Test that duplicate books are not added. ... ok
+test_num_books_read (__main__.BookLoverTestSuite.test_num_books_read)
+Test counting the number of books read. ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.006s
+
+OK
